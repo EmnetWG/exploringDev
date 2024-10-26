@@ -1,0 +1,10 @@
+name: Github Actions Demo
+on: push
+jobs:
+ Example Actions Jobs:
+    name: Exploring Github Actions
+     runs-on: windows-latest
+      steps:
+       
+    
+   
